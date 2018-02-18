@@ -1,0 +1,46 @@
+
+body {
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    transition: .3s;
+}
+
+a:hover {
+    background-color: rgb(94, 184, 187);
+}
+
+hr {
+    opacity: 0.8;
+}
+
+.container {
+    padding: 50px 50px 0;
+    font-size: 1.4em;
+}
+
+.section {
+    font-size: 1.6em;
+    font-weight: 100;
+}
+
+.source_code {
+    padding: 30px;
+}
+
+pre#custom {
+    max-width: 1000px;
+    max-height: 900px;
+    padding: 30px;
+    font-size: 1.2em;
+    font-weight: 400;
+    font-family: 'Yu Gothic';
+    border: none;
+}
